@@ -1,0 +1,241 @@
+audit_type,component,rank,verse_id,surah,verse,probability,translation
+top_posterior,0,1,44:38,44,38,0.99997705,And We did not create the heavens and earth and that between them in play.
+top_posterior,0,2,36:81,36,81,0.99997336,"Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator."
+top_posterior,0,3,15:23,15,23,0.9999543,"And indeed, it is We who give life and cause death, and We are the Inheritor."
+top_posterior,0,4,24:64,24,64,0.9999543,"Unquestionably, to Allah belongs whatever is in the heavens and earth. Already He knows that upon which you [stand] and [knows] the Day when they will be returned to Him and He will inform them of what they have done. And Allah is Knowing of all things."
+top_posterior,0,5,3:109,3,109,0.9999161,To Allah belongs whatever is in the heavens and whatever is on the earth. And to Allah will [all] matters be returned.
+top_posterior,0,6,37:16,37,16,0.9999008,"When we have died and become dust and bones, are we indeed to be resurrected?"
+top_posterior,0,7,4:132,4,132,0.9998856,And to Allah belongs whatever is in the heavens and whatever is on the earth. And sufficient is Allah as Disposer of affairs.
+top_posterior,0,8,17:49,17,49,0.9998856,"And they say, ""When we are bones and crumbled particles, will we [truly] be resurrected as a new creation?"""
+top_posterior,0,9,23:37,23,37,0.9998779,"Life is not but our worldly life - we die and live, but we will not be resurrected."
+top_posterior,0,10,23:14,23,14,0.9998627,"Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators."
+core_probability_ge_0.8,0,1,44:38,44,38,0.99997705,And We did not create the heavens and earth and that between them in play.
+core_probability_ge_0.8,0,2,36:81,36,81,0.99997336,"Is not He who created the heavens and the earth Able to create the likes of them? Yes, [it is so]; and He is the Knowing Creator."
+core_probability_ge_0.8,0,3,15:23,15,23,0.9999543,"And indeed, it is We who give life and cause death, and We are the Inheritor."
+core_probability_ge_0.8,0,4,24:64,24,64,0.9999543,"Unquestionably, to Allah belongs whatever is in the heavens and earth. Already He knows that upon which you [stand] and [knows] the Day when they will be returned to Him and He will inform them of what they have done. And Allah is Knowing of all things."
+core_probability_ge_0.8,0,5,3:109,3,109,0.9999161,To Allah belongs whatever is in the heavens and whatever is on the earth. And to Allah will [all] matters be returned.
+core_probability_ge_0.8,0,6,37:16,37,16,0.9999008,"When we have died and become dust and bones, are we indeed to be resurrected?"
+core_probability_ge_0.8,0,7,4:132,4,132,0.9998856,And to Allah belongs whatever is in the heavens and whatever is on the earth. And sufficient is Allah as Disposer of affairs.
+core_probability_ge_0.8,0,8,17:49,17,49,0.9998856,"And they say, ""When we are bones and crumbled particles, will we [truly] be resurrected as a new creation?"""
+core_probability_ge_0.8,0,9,23:37,23,37,0.9998779,"Life is not but our worldly life - we die and live, but we will not be resurrected."
+core_probability_ge_0.8,0,10,23:14,23,14,0.9998627,"Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators."
+top_posterior,1,1,39:36,39,36,0.99997705,"Is not Allah sufficient for His Servant [Prophet Muhammad]? And [yet], they threaten you with those [they worship] other than Him. And whoever Allah leaves astray - for him there is no guide."
+top_posterior,1,2,3:102,3,102,0.99997336,"O you who have believed, fear Allah as He should be feared and do not die except as Muslims [in submission to Him]."
+top_posterior,1,3,60:9,60,9,0.99996185,"Allah only forbids you from those who fight you because of religion and expel you from your homes and aid in your expulsion - [forbids] that you make allies of them. And whoever makes allies of them, then it is those who are the wrongdoers."
+top_posterior,1,4,3:150,3,150,0.99996185,"But Allah is your protector, and He is the best of helpers."
+top_posterior,1,5,16:64,16,64,0.999958,"And We have not revealed to you the Book, [O Muhammad], except for you to make clear to them that wherein they have differed and as guidance and mercy for a people who believe."
+top_posterior,1,6,9:119,9,119,0.999958,"O you who have believed, fear Allah and be with those who are true."
+top_posterior,1,7,3:85,3,85,0.9999543,"And whoever desires other than Islam as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers."
+top_posterior,1,8,21:36,21,36,0.9999466,"And when those who disbelieve see you, [O Muhammad], they take you not except in ridicule, [saying], ""Is this the one who insults your gods?"" And they are, at the mention of the Most Merciful, disbelievers."
+top_posterior,1,9,61:3,61,3,0.9999466,Great is hatred in the sight of Allah that you say what you do not do.
+top_posterior,1,10,10:105,10,105,0.9999427,"And [commanded], 'Direct your face toward the religion, inclining to truth, and never be of those who associate others with Allah;"
+core_probability_ge_0.8,1,1,39:36,39,36,0.99997705,"Is not Allah sufficient for His Servant [Prophet Muhammad]? And [yet], they threaten you with those [they worship] other than Him. And whoever Allah leaves astray - for him there is no guide."
+core_probability_ge_0.8,1,2,3:102,3,102,0.99997336,"O you who have believed, fear Allah as He should be feared and do not die except as Muslims [in submission to Him]."
+core_probability_ge_0.8,1,3,60:9,60,9,0.99996185,"Allah only forbids you from those who fight you because of religion and expel you from your homes and aid in your expulsion - [forbids] that you make allies of them. And whoever makes allies of them, then it is those who are the wrongdoers."
+core_probability_ge_0.8,1,4,3:150,3,150,0.99996185,"But Allah is your protector, and He is the best of helpers."
+core_probability_ge_0.8,1,5,16:64,16,64,0.999958,"And We have not revealed to you the Book, [O Muhammad], except for you to make clear to them that wherein they have differed and as guidance and mercy for a people who believe."
+core_probability_ge_0.8,1,6,9:119,9,119,0.999958,"O you who have believed, fear Allah and be with those who are true."
+core_probability_ge_0.8,1,7,3:85,3,85,0.9999543,"And whoever desires other than Islam as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers."
+core_probability_ge_0.8,1,8,21:36,21,36,0.9999466,"And when those who disbelieve see you, [O Muhammad], they take you not except in ridicule, [saying], ""Is this the one who insults your gods?"" And they are, at the mention of the Most Merciful, disbelievers."
+core_probability_ge_0.8,1,9,61:3,61,3,0.9999466,Great is hatred in the sight of Allah that you say what you do not do.
+core_probability_ge_0.8,1,10,10:105,10,105,0.9999427,"And [commanded], 'Direct your face toward the religion, inclining to truth, and never be of those who associate others with Allah;"
+top_posterior,2,1,22:50,22,50,0.9998513,And those who have believed and done righteous deeds - for them is forgiveness and noble provision.
+top_posterior,2,2,41:46,41,46,0.99982446,Whoever does righteousness - it is for his [own] soul; and whoever does evil [does so] against it. And your Lord is not ever unjust to [His] servants.
+top_posterior,2,3,38:61,38,61,0.99978644,"They will say, ""Our Lord, whoever brought this upon us - increase for him double punishment in the Fire."""
+top_posterior,2,4,18:95,18,95,0.99973303,"He said, ""That in which my Lord has established me is better [than what you offer], but assist me with strength; I will make between you and them a dam."
+top_posterior,2,5,15:56,15,56,0.9997215,"He said, ""And who despairs of the mercy of his Lord except for those astray?"""
+top_posterior,2,6,30:44,30,44,0.9996301,"Whoever disbelieves - upon him is [the consequence of] his disbelief. And whoever does righteousness - they are for themselves preparing,"
+top_posterior,2,7,22:77,22,77,0.9996301,"O you who have believed, bow and prostrate and worship your Lord and do good - that you may succeed."
+top_posterior,2,8,60:5,60,5,0.99959576,"Our Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise."""
+top_posterior,2,9,11:3,11,3,0.9995881,"And [saying], ""Seek forgiveness of your Lord and repent to Him, [and] He will let you enjoy a good provision for a specified term and give every doer of favor his favor. But if you turn away, then indeed, I fear for you the punishment of a great Day."
+top_posterior,2,10,18:105,18,105,0.99948895,"Those are the ones who disbelieve in the verses of their Lord and in [their] meeting Him, so their deeds have become worthless; and We will not assign to them on the Day of Resurrection any importance."
+core_probability_ge_0.8,2,1,22:50,22,50,0.9998513,And those who have believed and done righteous deeds - for them is forgiveness and noble provision.
+core_probability_ge_0.8,2,2,41:46,41,46,0.99982446,Whoever does righteousness - it is for his [own] soul; and whoever does evil [does so] against it. And your Lord is not ever unjust to [His] servants.
+core_probability_ge_0.8,2,3,38:61,38,61,0.99978644,"They will say, ""Our Lord, whoever brought this upon us - increase for him double punishment in the Fire."""
+core_probability_ge_0.8,2,4,18:95,18,95,0.99973303,"He said, ""That in which my Lord has established me is better [than what you offer], but assist me with strength; I will make between you and them a dam."
+core_probability_ge_0.8,2,5,15:56,15,56,0.9997215,"He said, ""And who despairs of the mercy of his Lord except for those astray?"""
+core_probability_ge_0.8,2,6,30:44,30,44,0.9996301,"Whoever disbelieves - upon him is [the consequence of] his disbelief. And whoever does righteousness - they are for themselves preparing,"
+core_probability_ge_0.8,2,7,22:77,22,77,0.9996301,"O you who have believed, bow and prostrate and worship your Lord and do good - that you may succeed."
+core_probability_ge_0.8,2,8,60:5,60,5,0.99959576,"Our Lord, make us not [objects of] torment for the disbelievers and forgive us, our Lord. Indeed, it is You who is the Exalted in Might, the Wise."""
+core_probability_ge_0.8,2,9,11:3,11,3,0.9995881,"And [saying], ""Seek forgiveness of your Lord and repent to Him, [and] He will let you enjoy a good provision for a specified term and give every doer of favor his favor. But if you turn away, then indeed, I fear for you the punishment of a great Day."
+core_probability_ge_0.8,2,10,18:105,18,105,0.99948895,"Those are the ones who disbelieve in the verses of their Lord and in [their] meeting Him, so their deeds have become worthless; and We will not assign to them on the Day of Resurrection any importance."
+top_posterior,3,1,53:33,53,33,1.0,Have you seen the one who turned away
+top_posterior,3,2,78:1,78,1,1.0,About what are they asking one another?
+top_posterior,3,3,71:6,71,6,0.9999923,But my invitation increased them not except in flight.
+top_posterior,3,4,80:12,80,12,0.9999923,So whoever wills may remember it.
+top_posterior,3,5,70:41,70,41,0.9999923,To replace them with better than them; and We are not to be outdone.
+top_posterior,3,6,23:65,23,65,0.99998474,"Do not cry out today. Indeed, by Us you will not be helped."
+top_posterior,3,7,54:15,54,15,0.99998474,"And We left it as a sign, so is there any who will remember?"
+top_posterior,3,8,69:25,69,25,0.99998474,"But as for he who is given his record in his left hand, he will say, ""Oh, I wish I had not been given my record"
+top_posterior,3,9,71:9,71,9,0.99998474,Then I announced to them and [also] confided to them secretly
+top_posterior,3,10,56:87,56,87,0.99998474,"Bring it back, if you should be truthful?"
+core_probability_ge_0.8,3,1,53:33,53,33,1.0,Have you seen the one who turned away
+core_probability_ge_0.8,3,2,78:1,78,1,1.0,About what are they asking one another?
+core_probability_ge_0.8,3,3,71:6,71,6,0.9999923,But my invitation increased them not except in flight.
+core_probability_ge_0.8,3,4,80:12,80,12,0.9999923,So whoever wills may remember it.
+core_probability_ge_0.8,3,5,70:41,70,41,0.9999923,To replace them with better than them; and We are not to be outdone.
+core_probability_ge_0.8,3,6,23:65,23,65,0.99998474,"Do not cry out today. Indeed, by Us you will not be helped."
+core_probability_ge_0.8,3,7,54:15,54,15,0.99998474,"And We left it as a sign, so is there any who will remember?"
+core_probability_ge_0.8,3,8,69:25,69,25,0.99998474,"But as for he who is given his record in his left hand, he will say, ""Oh, I wish I had not been given my record"
+core_probability_ge_0.8,3,9,71:9,71,9,0.99998474,Then I announced to them and [also] confided to them secretly
+core_probability_ge_0.8,3,10,56:87,56,87,0.99998474,"Bring it back, if you should be truthful?"
+top_posterior,4,1,56:43,56,43,1.0,"And a shade of black smoke,"
+top_posterior,4,2,40:72,40,72,1.0,In boiling water; then in the Fire they will be filled [with flame].
+top_posterior,4,3,44:46,44,46,1.0,Like the boiling of scalding water.
+top_posterior,4,4,56:6,56,6,1.0,And become dust dispersing.
+top_posterior,4,5,84:18,84,18,1.0,And [by] the moon when it becomes full
+top_posterior,4,6,77:10,77,10,1.0,And when the mountains are blown away
+top_posterior,4,7,86:11,86,11,1.0,By the sky which returns [rain]
+top_posterior,4,8,77:3,77,3,1.0,And [by] the winds that spread [clouds]
+top_posterior,4,9,51:1,51,1,1.0,By those [winds] scattering [dust] dispersing
+top_posterior,4,10,91:2,91,2,1.0,And [by] the moon when it follows it
+core_probability_ge_0.8,4,1,56:43,56,43,1.0,"And a shade of black smoke,"
+core_probability_ge_0.8,4,2,40:72,40,72,1.0,In boiling water; then in the Fire they will be filled [with flame].
+core_probability_ge_0.8,4,3,44:46,44,46,1.0,Like the boiling of scalding water.
+core_probability_ge_0.8,4,4,56:6,56,6,1.0,And become dust dispersing.
+core_probability_ge_0.8,4,5,84:18,84,18,1.0,And [by] the moon when it becomes full
+core_probability_ge_0.8,4,6,77:10,77,10,1.0,And when the mountains are blown away
+core_probability_ge_0.8,4,7,86:11,86,11,1.0,By the sky which returns [rain]
+core_probability_ge_0.8,4,8,77:3,77,3,1.0,And [by] the winds that spread [clouds]
+core_probability_ge_0.8,4,9,51:1,51,1,1.0,By those [winds] scattering [dust] dispersing
+core_probability_ge_0.8,4,10,91:2,91,2,1.0,And [by] the moon when it follows it
+top_posterior,5,1,2:97,2,97,1.0,"Say, ""Whoever is an enemy to Gabriel - it is [none but] he who has brought the Qur'an down upon your heart, [O Muhammad], by permission of Allah, confirming that which was before it and as guidance and good tidings for the believers."""
+top_posterior,5,2,27:65,27,65,1.0,"Say, ""None in the heavens and earth knows the unseen except Allah, and they do not perceive when they will be resurrected."""
+top_posterior,5,3,27:59,27,59,1.0,"Say, [O Muhammad], ""Praise be to Allah, and peace upon His servants whom He has chosen. Is Allah better or what they associate with Him?"""
+top_posterior,5,4,39:11,39,11,1.0,"Say, [O Muhammad], ""Indeed, I have been commanded to worship Allah, [being] sincere to Him in religion."
+top_posterior,5,5,39:10,39,10,1.0,"Say, ""O My servants who have believed, fear your Lord. For those who do good in this world is good, and the earth of Allah is spacious. Indeed, the patient will be given their reward without account."""
+top_posterior,5,6,18:110,18,110,1.0,"Say, ""I am only a man like you, to whom has been revealed that your god is one God. So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone."""
+top_posterior,5,7,9:52,9,52,1.0,"Say, ""Do you await for us except one of the two best things while we await for you that Allah will afflict you with punishment from Himself or at our hands? So wait; indeed we, along with you, are waiting."""
+top_posterior,5,8,6:164,6,164,1.0,"Say, ""Is it other than Allah I should desire as a lord while He is the Lord of all things? And every soul earns not [blame] except against itself, and no bearer of burdens will bear the burden of another. Then to your Lord is your return, and He will inform you concerning that over which you used to differ."""
+top_posterior,5,9,34:48,34,48,1.0,"Say, ""Indeed, my Lord projects the truth. Knower of the unseen."""
+top_posterior,5,10,6:14,6,14,1.0,"Say, ""Is it other than Allah I should take as a protector, Creator of the heavens and the earth, while it is He who feeds and is not fed?"" Say, [O Muhammad], ""Indeed, I have been commanded to be the first [among you] who submit [to Allah] and [was commanded], 'Do not ever be of the polytheists.' """
+core_probability_ge_0.8,5,1,2:97,2,97,1.0,"Say, ""Whoever is an enemy to Gabriel - it is [none but] he who has brought the Qur'an down upon your heart, [O Muhammad], by permission of Allah, confirming that which was before it and as guidance and good tidings for the believers."""
+core_probability_ge_0.8,5,2,27:65,27,65,1.0,"Say, ""None in the heavens and earth knows the unseen except Allah, and they do not perceive when they will be resurrected."""
+core_probability_ge_0.8,5,3,27:59,27,59,1.0,"Say, [O Muhammad], ""Praise be to Allah, and peace upon His servants whom He has chosen. Is Allah better or what they associate with Him?"""
+core_probability_ge_0.8,5,4,39:11,39,11,1.0,"Say, [O Muhammad], ""Indeed, I have been commanded to worship Allah, [being] sincere to Him in religion."
+core_probability_ge_0.8,5,5,39:10,39,10,1.0,"Say, ""O My servants who have believed, fear your Lord. For those who do good in this world is good, and the earth of Allah is spacious. Indeed, the patient will be given their reward without account."""
+core_probability_ge_0.8,5,6,18:110,18,110,1.0,"Say, ""I am only a man like you, to whom has been revealed that your god is one God. So whoever would hope for the meeting with his Lord - let him do righteous work and not associate in the worship of his Lord anyone."""
+core_probability_ge_0.8,5,7,9:52,9,52,1.0,"Say, ""Do you await for us except one of the two best things while we await for you that Allah will afflict you with punishment from Himself or at our hands? So wait; indeed we, along with you, are waiting."""
+core_probability_ge_0.8,5,8,6:164,6,164,1.0,"Say, ""Is it other than Allah I should desire as a lord while He is the Lord of all things? And every soul earns not [blame] except against itself, and no bearer of burdens will bear the burden of another. Then to your Lord is your return, and He will inform you concerning that over which you used to differ."""
+core_probability_ge_0.8,5,9,34:48,34,48,1.0,"Say, ""Indeed, my Lord projects the truth. Knower of the unseen."""
+core_probability_ge_0.8,5,10,6:14,6,14,1.0,"Say, ""Is it other than Allah I should take as a protector, Creator of the heavens and the earth, while it is He who feeds and is not fed?"" Say, [O Muhammad], ""Indeed, I have been commanded to be the first [among you] who submit [to Allah] and [was commanded], 'Do not ever be of the polytheists.' """
+top_posterior,6,1,10:83,10,83,1.0,"But no one believed Moses, except [some] youths among his people, for fear of Pharaoh and his establishment that they would persecute them. And indeed, Pharaoh was haughty within the land, and indeed, he was of the transgressors"
+top_posterior,6,2,10:79,10,79,1.0,"And Pharaoh said, ""Bring to me every learned magician."""
+top_posterior,6,3,43:51,43,51,1.0,"And Pharaoh called out among his people; he said, ""O my people, does not the kingdom of Egypt belong to me, and these rivers flowing beneath me; then do you not see?"
+top_posterior,6,4,7:103,7,103,1.0,"Then We sent after them Moses with Our signs to Pharaoh and his establishment, but they were unjust toward them. So see how was the end of the corrupters."
+top_posterior,6,5,20:49,20,49,1.0,"[Pharaoh] said, ""So who is the Lord of you two, O Moses?"""
+top_posterior,6,6,20:71,20,71,1.0,"[Pharaoh] said, ""You believed him before I gave you permission. Indeed, he is your leader who has taught you magic. So I will surely cut off your hands and your feet on opposite sides, and I will crucify you on the trunks of palm trees, and you will surely know which of us is more severe in [giving] punishment and more enduring."""
+top_posterior,6,7,79:17,79,17,1.0,"""Go to Pharaoh. Indeed, he has transgressed."
+top_posterior,6,8,20:60,20,60,1.0,"So Pharaoh went away, put together his plan, and then came [to Moses]."
+top_posterior,6,9,26:53,26,53,1.0,Then Pharaoh sent among the cities gatherers
+top_posterior,6,10,40:26,40,26,1.0,"And Pharaoh said, ""Let me kill Moses and let him call upon his Lord. Indeed, I fear that he will change your religion or that he will cause corruption in the land."""
+core_probability_ge_0.8,6,1,10:83,10,83,1.0,"But no one believed Moses, except [some] youths among his people, for fear of Pharaoh and his establishment that they would persecute them. And indeed, Pharaoh was haughty within the land, and indeed, he was of the transgressors"
+core_probability_ge_0.8,6,2,10:79,10,79,1.0,"And Pharaoh said, ""Bring to me every learned magician."""
+core_probability_ge_0.8,6,3,43:51,43,51,1.0,"And Pharaoh called out among his people; he said, ""O my people, does not the kingdom of Egypt belong to me, and these rivers flowing beneath me; then do you not see?"
+core_probability_ge_0.8,6,4,7:103,7,103,1.0,"Then We sent after them Moses with Our signs to Pharaoh and his establishment, but they were unjust toward them. So see how was the end of the corrupters."
+core_probability_ge_0.8,6,5,20:49,20,49,1.0,"[Pharaoh] said, ""So who is the Lord of you two, O Moses?"""
+core_probability_ge_0.8,6,6,20:71,20,71,1.0,"[Pharaoh] said, ""You believed him before I gave you permission. Indeed, he is your leader who has taught you magic. So I will surely cut off your hands and your feet on opposite sides, and I will crucify you on the trunks of palm trees, and you will surely know which of us is more severe in [giving] punishment and more enduring."""
+core_probability_ge_0.8,6,7,79:17,79,17,1.0,"""Go to Pharaoh. Indeed, he has transgressed."
+core_probability_ge_0.8,6,8,20:60,20,60,1.0,"So Pharaoh went away, put together his plan, and then came [to Moses]."
+core_probability_ge_0.8,6,9,26:53,26,53,1.0,Then Pharaoh sent among the cities gatherers
+core_probability_ge_0.8,6,10,40:26,40,26,1.0,"And Pharaoh said, ""Let me kill Moses and let him call upon his Lord. Indeed, I fear that he will change your religion or that he will cause corruption in the land."""
+top_posterior,7,1,27:36,27,36,1.0,"So when they came to Solomon, he said, ""Do you provide me with wealth? But what Allah has given me is better than what He has given you. Rather, it is you who rejoice in your gift."
+top_posterior,7,2,65:7,65,7,1.0,"Let a man of wealth spend from his wealth, and he whose provision is restricted - let him spend from what Allah has given him. Allah does not charge a soul except [according to] what He has given it. Allah will bring about, after hardship, ease."
+top_posterior,7,3,2:267,2,267,1.0,"O you who have believed, spend from the good things which you have earned and from that which We have produced for you from the earth. And do not aim toward the defective therefrom, spending [from that] while you would not take it [yourself] except with closed eyes. And know that Allah is Free of need and Praiseworthy."
+top_posterior,7,4,2:265,2,265,1.0,"And the example of those who spend their wealth seeking means to the approval of Allah and assuring [reward for] themselves is like a garden on high ground which is hit by a downpour - so it yields its fruits in double. And [even] if it is not hit by a downpour, then a drizzle [is sufficient]. And Allah, of what you do, is Seeing."
+top_posterior,7,5,2:262,2,262,1.0,"Those who spend their wealth in the way of Allah and then do not follow up what they have spent with reminders [of it] or [other] injury will have their reward with their Lord, and there will be no fear concerning them, nor will they grieve."
+top_posterior,7,6,2:274,2,274,1.0,"Those who spend their wealth [in Allah 's way] by night and by day, secretly and publicly - they will have their reward with their Lord. And no fear will there be concerning them, nor will they grieve."
+top_posterior,7,7,58:17,58,17,1.0,Never will their wealth or their children avail them against Allah at all. Those are the companions of the Fire; they will abide therein eternally
+top_posterior,7,8,2:261,2,261,1.0,The example of those who spend their wealth in the way of Allah is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allah multiplies [His reward] for whom He wills. And Allah is all-Encompassing and Knowing.
+top_posterior,7,9,30:39,30,39,1.0,"And whatever you give for interest to increase within the wealth of people will not increase with Allah. But what you give in zakah, desiring the countenance of Allah - those are the multipliers."
+top_posterior,7,10,2:245,2,245,1.0,"Who is it that would loan Allah a goodly loan so He may multiply it for him many times over? And it is Allah who withholds and grants abundance, and to Him you will be returned."
+core_probability_ge_0.8,7,1,27:36,27,36,1.0,"So when they came to Solomon, he said, ""Do you provide me with wealth? But what Allah has given me is better than what He has given you. Rather, it is you who rejoice in your gift."
+core_probability_ge_0.8,7,2,65:7,65,7,1.0,"Let a man of wealth spend from his wealth, and he whose provision is restricted - let him spend from what Allah has given him. Allah does not charge a soul except [according to] what He has given it. Allah will bring about, after hardship, ease."
+core_probability_ge_0.8,7,3,2:267,2,267,1.0,"O you who have believed, spend from the good things which you have earned and from that which We have produced for you from the earth. And do not aim toward the defective therefrom, spending [from that] while you would not take it [yourself] except with closed eyes. And know that Allah is Free of need and Praiseworthy."
+core_probability_ge_0.8,7,4,2:265,2,265,1.0,"And the example of those who spend their wealth seeking means to the approval of Allah and assuring [reward for] themselves is like a garden on high ground which is hit by a downpour - so it yields its fruits in double. And [even] if it is not hit by a downpour, then a drizzle [is sufficient]. And Allah, of what you do, is Seeing."
+core_probability_ge_0.8,7,5,2:262,2,262,1.0,"Those who spend their wealth in the way of Allah and then do not follow up what they have spent with reminders [of it] or [other] injury will have their reward with their Lord, and there will be no fear concerning them, nor will they grieve."
+core_probability_ge_0.8,7,6,2:274,2,274,1.0,"Those who spend their wealth [in Allah 's way] by night and by day, secretly and publicly - they will have their reward with their Lord. And no fear will there be concerning them, nor will they grieve."
+core_probability_ge_0.8,7,7,58:17,58,17,1.0,Never will their wealth or their children avail them against Allah at all. Those are the companions of the Fire; they will abide therein eternally
+core_probability_ge_0.8,7,8,2:261,2,261,1.0,The example of those who spend their wealth in the way of Allah is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allah multiplies [His reward] for whom He wills. And Allah is all-Encompassing and Knowing.
+core_probability_ge_0.8,7,9,30:39,30,39,1.0,"And whatever you give for interest to increase within the wealth of people will not increase with Allah. But what you give in zakah, desiring the countenance of Allah - those are the multipliers."
+core_probability_ge_0.8,7,10,2:245,2,245,1.0,"Who is it that would loan Allah a goodly loan so He may multiply it for him many times over? And it is Allah who withholds and grants abundance, and to Him you will be returned."
+top_posterior,8,1,78:32,78,32,1.0,Gardens and grapevines
+top_posterior,8,2,78:16,78,16,1.0,And gardens of entwined growth.
+top_posterior,8,3,77:42,77,42,1.0,"And fruits from whatever they desire,"
+top_posterior,8,4,18:32,18,32,1.0,"And present to them an example of two men: We granted to one of them two gardens of grapevines, and We bordered them with palm trees and placed between them [fields of] crops."
+top_posterior,8,5,6:141,6,141,1.0,"And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakah] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess."
+top_posterior,8,6,56:20,56,20,1.0,And fruit of what they select
+top_posterior,8,7,12:47,12,47,1.0,"[Joseph] said, ""You will plant for seven years consecutively; and what you harvest leave in its spikes, except a little from which you will eat."
+top_posterior,8,8,37:42,37,42,1.0,Fruits; and they will be honored
+top_posterior,8,9,36:34,36,34,1.0,And We placed therein gardens of palm trees and grapevines and caused to burst forth therefrom some springs -
+top_posterior,8,10,13:4,13,4,1.0,"And within the land are neighboring plots and gardens of grapevines and crops and palm trees, [growing] several from a root or otherwise, watered with one water; but We make some of them exceed others in [quality of] fruit. Indeed in that are signs for a people who reason."
+core_probability_ge_0.8,8,1,78:32,78,32,1.0,Gardens and grapevines
+core_probability_ge_0.8,8,2,78:16,78,16,1.0,And gardens of entwined growth.
+core_probability_ge_0.8,8,3,77:42,77,42,1.0,"And fruits from whatever they desire,"
+core_probability_ge_0.8,8,4,18:32,18,32,1.0,"And present to them an example of two men: We granted to one of them two gardens of grapevines, and We bordered them with palm trees and placed between them [fields of] crops."
+core_probability_ge_0.8,8,5,6:141,6,141,1.0,"And He it is who causes gardens to grow, [both] trellised and untrellised, and palm trees and crops of different [kinds of] food and olives and pomegranates, similar and dissimilar. Eat of [each of] its fruit when it yields and give its due [zakah] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess."
+core_probability_ge_0.8,8,6,56:20,56,20,1.0,And fruit of what they select
+core_probability_ge_0.8,8,7,12:47,12,47,1.0,"[Joseph] said, ""You will plant for seven years consecutively; and what you harvest leave in its spikes, except a little from which you will eat."
+core_probability_ge_0.8,8,8,37:42,37,42,1.0,Fruits; and they will be honored
+core_probability_ge_0.8,8,9,36:34,36,34,1.0,And We placed therein gardens of palm trees and grapevines and caused to burst forth therefrom some springs -
+core_probability_ge_0.8,8,10,13:4,13,4,1.0,"And within the land are neighboring plots and gardens of grapevines and crops and palm trees, [growing] several from a root or otherwise, watered with one water; but We make some of them exceed others in [quality of] fruit. Indeed in that are signs for a people who reason."
+top_posterior,9,1,55:40,55,40,1.0,So which of the favors of your Lord would you deny?
+top_posterior,9,2,55:63,55,63,1.0,So which of the favors of your Lord would you deny? -
+top_posterior,9,3,55:21,55,21,1.0,So which of the favors of your Lord would you deny?
+top_posterior,9,4,55:61,55,61,1.0,So which of the favors of your Lord would you deny?
+top_posterior,9,5,55:38,55,38,1.0,So which of the favors of your Lord would you deny? -
+top_posterior,9,6,55:59,55,59,1.0,So which of the favors of your Lord would you deny?
+top_posterior,9,7,55:13,55,13,1.0,So which of the favors of your Lord would you deny?
+top_posterior,9,8,55:57,55,57,1.0,So which of the favors of your Lord would you deny? -
+top_posterior,9,9,55:36,55,36,1.0,So which of the favors of your Lord would you deny?
+top_posterior,9,10,55:55,55,55,1.0,So which of the favors of your Lord would you deny?
+core_probability_ge_0.8,9,1,55:40,55,40,1.0,So which of the favors of your Lord would you deny?
+core_probability_ge_0.8,9,2,55:63,55,63,1.0,So which of the favors of your Lord would you deny? -
+core_probability_ge_0.8,9,3,55:21,55,21,1.0,So which of the favors of your Lord would you deny?
+core_probability_ge_0.8,9,4,55:61,55,61,1.0,So which of the favors of your Lord would you deny?
+core_probability_ge_0.8,9,5,55:38,55,38,1.0,So which of the favors of your Lord would you deny? -
+core_probability_ge_0.8,9,6,55:59,55,59,1.0,So which of the favors of your Lord would you deny?
+core_probability_ge_0.8,9,7,55:13,55,13,1.0,So which of the favors of your Lord would you deny?
+core_probability_ge_0.8,9,8,55:57,55,57,1.0,So which of the favors of your Lord would you deny? -
+core_probability_ge_0.8,9,9,55:36,55,36,1.0,So which of the favors of your Lord would you deny?
+core_probability_ge_0.8,9,10,55:55,55,55,1.0,So which of the favors of your Lord would you deny?
+top_posterior,10,1,101:4,101,4,1.0,"It is the Day when people will be like moths, dispersed,"
+top_posterior,10,2,82:19,82,19,1.0,"It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah."
+top_posterior,10,3,7:187,7,187,1.0,"They ask you, [O Muhammad], about the Hour: when is its arrival? Say, ""Its knowledge is only with my Lord. None will reveal its time except Him. It lays heavily upon the heavens and the earth. It will not come upon you except unexpectedly."" They ask you as if you are familiar with it. Say, ""Its knowledge is only with Allah, but most of the people do not know."""
+top_posterior,10,4,86:9,86,9,1.0,"The Day when secrets will be put on trial,"
+top_posterior,10,5,42:18,42,18,1.0,"Those who do not believe in it are impatient for it, but those who believe are fearful of it and know that it is the truth. Unquestionably, those who dispute concerning the Hour are in extreme error."
+top_posterior,10,6,33:63,33,63,1.0,"People ask you concerning the Hour. Say,"" Knowledge of it is only with Allah. And what may make you perceive? Perhaps the Hour is near."""
+top_posterior,10,7,35:13,35,13,0.9999923,"He causes the night to enter the day, and He causes the day to enter the night and has subjected the sun and the moon - each running [its course] for a specified term. That is Allah, your Lord; to Him belongs sovereignty. And those whom you invoke other than Him do not possess [as much as] the membrane of a date seed."
+top_posterior,10,8,24:44,24,44,0.9999923,Allah alternates the night and the day. Indeed in that is a lesson for those who have vision.
+top_posterior,10,9,17:12,17,12,0.9999923,"And We have made the night and day two signs, and We erased the sign of the night and made the sign of the day visible that you may seek bounty from your Lord and may know the number of years and the account [of time]. And everything We have set out in detail."
+top_posterior,10,10,50:42,50,42,0.9999923,The Day they will hear the blast [of the Horn] in truth. That is the Day of Emergence [from the graves].
+core_probability_ge_0.8,10,1,101:4,101,4,1.0,"It is the Day when people will be like moths, dispersed,"
+core_probability_ge_0.8,10,2,82:19,82,19,1.0,"It is the Day when a soul will not possess for another soul [power to do] a thing; and the command, that Day, is [entirely] with Allah."
+core_probability_ge_0.8,10,3,7:187,7,187,1.0,"They ask you, [O Muhammad], about the Hour: when is its arrival? Say, ""Its knowledge is only with my Lord. None will reveal its time except Him. It lays heavily upon the heavens and the earth. It will not come upon you except unexpectedly."" They ask you as if you are familiar with it. Say, ""Its knowledge is only with Allah, but most of the people do not know."""
+core_probability_ge_0.8,10,4,86:9,86,9,1.0,"The Day when secrets will be put on trial,"
+core_probability_ge_0.8,10,5,42:18,42,18,1.0,"Those who do not believe in it are impatient for it, but those who believe are fearful of it and know that it is the truth. Unquestionably, those who dispute concerning the Hour are in extreme error."
+core_probability_ge_0.8,10,6,33:63,33,63,1.0,"People ask you concerning the Hour. Say,"" Knowledge of it is only with Allah. And what may make you perceive? Perhaps the Hour is near."""
+core_probability_ge_0.8,10,7,35:13,35,13,0.9999923,"He causes the night to enter the day, and He causes the day to enter the night and has subjected the sun and the moon - each running [its course] for a specified term. That is Allah, your Lord; to Him belongs sovereignty. And those whom you invoke other than Him do not possess [as much as] the membrane of a date seed."
+core_probability_ge_0.8,10,8,24:44,24,44,0.9999923,Allah alternates the night and the day. Indeed in that is a lesson for those who have vision.
+core_probability_ge_0.8,10,9,17:12,17,12,0.9999923,"And We have made the night and day two signs, and We erased the sign of the night and made the sign of the day visible that you may seek bounty from your Lord and may know the number of years and the account [of time]. And everything We have set out in detail."
+core_probability_ge_0.8,10,10,50:42,50,42,0.9999923,The Day they will hear the blast [of the Horn] in truth. That is the Day of Emergence [from the graves].
+top_posterior,11,1,78:33,78,33,1.0,And full-breasted [companions] of equal age
+top_posterior,11,2,66:4,66,4,1.0,"If you two [wives] repent to Allah, [it is best], for your hearts have deviated. But if you cooperate against him - then indeed Allah is his protector, and Gabriel and the righteous of the believers and the angels, moreover, are [his] assistants."
+top_posterior,11,3,24:31,24,31,1.0,"And tell the believing women to reduce [some] of their vision and guard their private parts and not expose their adornment except that which [necessarily] appears thereof and to wrap [a portion of] their headcovers over their chests and not expose their adornment except to their husbands, their fathers, their husbands' fathers, their sons, their husbands' sons, their brothers, their brothers' sons, their sisters' sons, their women, that which their right hands possess, or those male attendants having no physical desire, or children who are not yet aware of the private aspects of women. And let them not stamp their feet to make known what they conceal of their adornment. And turn to Allah in repentance, all of you, O believers, that you might succeed."
+top_posterior,11,4,60:10,60,10,1.0,"O you who have believed, when the believing women come to you as emigrants, examine them. Allah is most knowing as to their faith. And if you know them to be believers, then do not return them to the disbelievers; they are not lawful [wives] for them, nor are they lawful [husbands] for them. But give the disbelievers what they have spent. And there is no blame upon you if you marry them when you have given them their due compensation. And hold not to marriage bonds with disbelieving women, but ask for what you have spent and let them ask for what they have spent. That is the judgement of Allah; He judges between you. And Allah is Knowing and Wise."
+top_posterior,11,5,24:60,24,60,1.0,And women of post-menstrual age who have no desire for marriage - there is no blame upon them for putting aside their outer garments [but] not displaying adornment. But to modestly refrain [from that] is better for them. And Allah is Hearing and Knowing.
+top_posterior,11,6,33:50,33,50,1.0,"O Prophet, indeed We have made lawful to you your wives to whom you have given their due compensation and those your right hand possesses from what Allah has returned to you [of captives] and the daughters of your paternal uncles and the daughters of your paternal aunts and the daughters of your maternal uncles and the daughters of your maternal aunts who emigrated with you and a believing woman if she gives herself to the Prophet [and] if the Prophet wishes to marry her, [this is] only for you, excluding the [other] believers. We certainly know what We have made obligatory upon them concerning their wives and those their right hands possess, [but this is for you] in order that there will be upon you no discomfort. And ever is Allah Forgiving and Merciful."
+top_posterior,11,7,33:55,33,55,1.0,"There is no blame upon women concerning their fathers or their sons or their brothers or their brothers' sons or their sisters' sons or their women or those their right hands possess. And fear Allah. Indeed Allah is ever, over all things, Witness."
+top_posterior,11,8,33:36,33,36,1.0,"It is not for a believing man or a believing woman, when Allah and His Messenger have decided a matter, that they should [thereafter] have any choice about their affair. And whoever disobeys Allah and His Messenger has certainly strayed into clear error."
+top_posterior,11,9,2:228,2,228,1.0,"Divorced women remain in waiting for three periods, and it is not lawful for them to conceal what Allah has created in their wombs if they believe in Allah and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to the wives is similar to what is expected of them, according to what is reasonable. But the men have a degree over them [in responsibility and authority]. And Allah is Exalted in Might and Wise."
+top_posterior,11,10,33:30,33,30,1.0,"O wives of the Prophet, whoever of you should commit a clear immorality - for her the punishment would be doubled two fold, and ever is that, for Allah, easy."
+core_probability_ge_0.8,11,1,78:33,78,33,1.0,And full-breasted [companions] of equal age
+core_probability_ge_0.8,11,2,66:4,66,4,1.0,"If you two [wives] repent to Allah, [it is best], for your hearts have deviated. But if you cooperate against him - then indeed Allah is his protector, and Gabriel and the righteous of the believers and the angels, moreover, are [his] assistants."
+core_probability_ge_0.8,11,3,24:31,24,31,1.0,"And tell the believing women to reduce [some] of their vision and guard their private parts and not expose their adornment except that which [necessarily] appears thereof and to wrap [a portion of] their headcovers over their chests and not expose their adornment except to their husbands, their fathers, their husbands' fathers, their sons, their husbands' sons, their brothers, their brothers' sons, their sisters' sons, their women, that which their right hands possess, or those male attendants having no physical desire, or children who are not yet aware of the private aspects of women. And let them not stamp their feet to make known what they conceal of their adornment. And turn to Allah in repentance, all of you, O believers, that you might succeed."
+core_probability_ge_0.8,11,4,60:10,60,10,1.0,"O you who have believed, when the believing women come to you as emigrants, examine them. Allah is most knowing as to their faith. And if you know them to be believers, then do not return them to the disbelievers; they are not lawful [wives] for them, nor are they lawful [husbands] for them. But give the disbelievers what they have spent. And there is no blame upon you if you marry them when you have given them their due compensation. And hold not to marriage bonds with disbelieving women, but ask for what you have spent and let them ask for what they have spent. That is the judgement of Allah; He judges between you. And Allah is Knowing and Wise."
+core_probability_ge_0.8,11,5,24:60,24,60,1.0,And women of post-menstrual age who have no desire for marriage - there is no blame upon them for putting aside their outer garments [but] not displaying adornment. But to modestly refrain [from that] is better for them. And Allah is Hearing and Knowing.
+core_probability_ge_0.8,11,6,33:50,33,50,1.0,"O Prophet, indeed We have made lawful to you your wives to whom you have given their due compensation and those your right hand possesses from what Allah has returned to you [of captives] and the daughters of your paternal uncles and the daughters of your paternal aunts and the daughters of your maternal uncles and the daughters of your maternal aunts who emigrated with you and a believing woman if she gives herself to the Prophet [and] if the Prophet wishes to marry her, [this is] only for you, excluding the [other] believers. We certainly know what We have made obligatory upon them concerning their wives and those their right hands possess, [but this is for you] in order that there will be upon you no discomfort. And ever is Allah Forgiving and Merciful."
+core_probability_ge_0.8,11,7,33:55,33,55,1.0,"There is no blame upon women concerning their fathers or their sons or their brothers or their brothers' sons or their sisters' sons or their women or those their right hands possess. And fear Allah. Indeed Allah is ever, over all things, Witness."
+core_probability_ge_0.8,11,8,33:36,33,36,1.0,"It is not for a believing man or a believing woman, when Allah and His Messenger have decided a matter, that they should [thereafter] have any choice about their affair. And whoever disobeys Allah and His Messenger has certainly strayed into clear error."
+core_probability_ge_0.8,11,9,2:228,2,228,1.0,"Divorced women remain in waiting for three periods, and it is not lawful for them to conceal what Allah has created in their wombs if they believe in Allah and the Last Day. And their husbands have more right to take them back in this [period] if they want reconciliation. And due to the wives is similar to what is expected of them, according to what is reasonable. But the men have a degree over them [in responsibility and authority]. And Allah is Exalted in Might and Wise."
+core_probability_ge_0.8,11,10,33:30,33,30,1.0,"O wives of the Prophet, whoever of you should commit a clear immorality - for her the punishment would be doubled two fold, and ever is that, for Allah, easy."

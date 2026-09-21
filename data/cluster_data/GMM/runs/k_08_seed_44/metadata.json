@@ -1,0 +1,10 @@
+{
+  "input": "C:\\Users\\rezas\\GitHub\\VerseQA\\data\\quran_data\\merged_quran.csv",
+  "embedding_model": "sentence-transformers/all-mpnet-base-v2",
+  "components": 8,
+  "seed": 44,
+  "n_init": 10,
+  "pca_dimensions": 50,
+  "covariance_type": "diag",
+  "verses": 6236
+}
